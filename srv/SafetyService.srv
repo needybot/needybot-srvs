@@ -1,0 +1,9 @@
+string request
+
+---
+
+bool safe
+kobuki_msgs/BumperEvent bumper_event
+kobuki_msgs/CliffEvent cliff_event
+kobuki_msgs/WheelDropEvent wheel_event
+
