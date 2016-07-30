@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>needybot_srvs</name>
-  <version>1.0.0</version>
+  <version>0.1.0</version>
   <description>The needybot_srvs package</description>
 
   <maintainer email="needybot@wk.com">Needybot Team</maintainer>
